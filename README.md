@@ -4,6 +4,6 @@ This project is built with android's clean architecture concepts.
 
 Built with
 - Kotlin
-- Jetpack Compos
+- Jetpack Compose
 - Room
 - Dagger Hilt
